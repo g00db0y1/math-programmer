@@ -20,10 +20,3 @@ An experimental **math programming environment** that combines:
 
 ---
 
-## 🔧 Getting Started
-```bash
-# install deps
-npm install
-
-# run dev server (example, editor app)
-cd apps/editor && npm start
