@@ -1,0 +1,7 @@
+# Enforce LF for all text files
+* text=auto eol=lf
+
+# Keep specific files as-is
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+*.sh  text eol=lf

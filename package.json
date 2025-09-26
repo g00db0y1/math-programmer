@@ -1,0 +1,23 @@
+{
+  "name": "math-programmer",
+  "version": "1.0.0",
+  "private": "true",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "author": {
+      "name": "g00db0y1",
+      "email": "oluwatayoelijah424@gmail.com"
+    },
+    "url": "https://github.com/g00db0y1/math-programmer.git"
+  },
+  "author": "g00db0y1 <oluwatayoelijah424@gmail.com>",
+  "license": "MIT",
+  "workspaces": [
+    "apps/*",
+    "libs/*"
+  ],
+  "devDependencies": {
+    "nx": "21.5.3"
+  }
+}

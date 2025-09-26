@@ -10,3 +10,29 @@ build/
 # misc
 .DS_Store
 .env
+*.log
+
+# IDEs and editors
+.vscode/
+
+# testing
+coverage/   
+
+# production
+.env.production 
+.env.local
+.env.*.local
+.next
+out/
+
+#docker
+.docker/
+
+
+#nx
+.nx/cache
+.nx/workspace-data
+
+# cursor & github instructions
+.cursor/rules/nx-rules.mdc
+.github/instructions/nx.instructions.md
